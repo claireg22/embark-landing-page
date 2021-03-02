@@ -100,7 +100,7 @@ input{
 
 }
 
-#mc_embed_signup{
+/*#mc_embed_signup{
     background:#F7EDD5; 
     padding-left: 250px;
     padding-top: 130px;
@@ -120,7 +120,7 @@ input{
     color: #ffffff;
     padding: 0px 28px;
     transition: 0.5s;
-}
+}*/
 
 .email button:hover{
     background-color: #ffffff;
