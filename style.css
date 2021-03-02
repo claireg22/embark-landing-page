@@ -100,7 +100,7 @@ input{
 
 }
 
-/* .button{
+ .button{
     background-color: #5DABE2;
     height: 55px;
     width: 130px;
@@ -109,7 +109,7 @@ input{
     color: #ffffff;
     padding: 0px 28px;
     transition: 0.5s;
-}*/
+}
 
 .email button:hover{
     background-color: #ffffff;
