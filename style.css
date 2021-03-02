@@ -90,7 +90,7 @@ li{
     padding-top: 15px;
 }
 
-input{
+/*input{
     border-radius: 10px;
     width: 400px;
     height: 55px;
@@ -100,7 +100,7 @@ input{
 
 }
 
-/*#mc_embed_signup{
+#mc_embed_signup{
     background:#F7EDD5; 
     padding-left: 250px;
     padding-top: 130px;
