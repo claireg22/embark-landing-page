@@ -97,20 +97,8 @@ input{
     border: 0px;
     padding: 0 20px;
     box-sizing:border-box;
-    margin-left: -25px;
 
 }
-
-/*#mc_embed_signup{
-    background:#F7EDD5; 
-    padding-left: 250px;
-    padding-top: 130px;
-    padding-right: 400px;
-    padding-bottom: 130px;
-    clear:left; }
-  #mc_embed_signup h1{
-    font-family: poppins;
-    padding-bottom: 10px;}
 
 .button{
     background-color: #5DABE2;
@@ -121,7 +109,7 @@ input{
     color: #ffffff;
     padding: 0px 28px;
     transition: 0.5s;
-}*/
+}
 
 .email button:hover{
     background-color: #ffffff;
@@ -144,6 +132,17 @@ input{
 .row{
     display: flex;
     flex-wrap: wrap;
+}
+
+.signup {
+    background-color: #5DABE2;
+    height: 55px;
+    width: 130px;
+    border: none;
+    border-radius: 10px;
+    color:white;
+    padding: 0px 28px;
+    transition: 0.5s;
 }
 
 .footer ul{
